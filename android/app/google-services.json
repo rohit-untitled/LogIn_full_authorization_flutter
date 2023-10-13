@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742570069833",
+    "project_id": "auth-63bab",
+    "storage_bucket": "auth-63bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742570069833:android:1ada8bd2ae997102399498",
+        "android_client_info": {
+          "package_name": "com.example.modern_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHjH0WE-XftRpv0XrlZgF6xGfAB7ticY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
